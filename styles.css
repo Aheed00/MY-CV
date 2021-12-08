@@ -11,12 +11,16 @@ hr{
 }
 
 h1{
-  color: #63B4B8;
+  color:#63B4B8;
 }
 
 h2{
-      color: #63B4B8;
+      color: #00A19D;
 }
 h3{
-     color: #63B4B8;
+      color: #00A19D;
+}
+table {
+  font-size: 20px;
+  color: #3DB2FF;
 }
